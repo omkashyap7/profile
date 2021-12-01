@@ -1,0 +1,77 @@
+body{
+  padding-top:10px;
+  background-color: white;
+}
+.container .jumbotron{
+  background: Beige;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-radius: 6px;
+
+}
+.navbar{
+  background-color: DarkBlue;
+
+}
+
+#nav{
+  color: white;
+  font-size: 17px;
+}
+
+
+#btn{
+  color: white;
+
+}
+.img{
+  margin: 10px;
+  border-radius: 140px;
+
+}
+
+#hr{
+  border: 1px solid black;
+}
+
+#profile{
+  color: red;
+  font-size: 15px;
+
+}
+.btn{
+  background-color: black;
+}
+
+#cen{
+  text-align: center;
+  color: inherit;
+}
+
+#spl{
+  color: yellow;
+  font-size: 19px;
+}
+
+#one{
+  background: Beige;
+}
+#two{
+  background: Beige;
+}
+
+#three{
+  background: Beige;
+}
+#four{
+  background: Beige;
+}
+#five{
+  background: Beige;
+}
+#six{
+  background: Beige;
+}
+#seven{
+  background: Beige;
+}
